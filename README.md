@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dylan Coleman.
+- 👀 I’m interested in learning python as much as I can even though it is a scripting language.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on any python projects.
